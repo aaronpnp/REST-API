@@ -132,6 +132,6 @@ dmypy.json
 ### Vagrant Patch ###
 *.box
 
-# End of https://www.gitignore.io/api/python,vagrant
+# End of https://www.gitignore.io/api/python,vagrant new
 eb-package.zip
 static/
